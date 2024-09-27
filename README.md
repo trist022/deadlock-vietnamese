@@ -15,7 +15,7 @@ This repository contains the official Vietnamese localization for [Deadlock](htt
 | Base Translation | Complete |
 | Quality Assurance | Ongoing |
 | Version | 1.0.0 |
-| Last Updated | [Current Date] |
+| Last Updated | 27/09/2024 |
 
 We are committed to continual improvement and regularly update the translation to enhance accuracy and fluency.
 
@@ -23,7 +23,7 @@ We are committed to continual improvement and regularly update the translation t
 
 ### Method 1: Manual Installation
 
-1. Download the latest release package from our [GitHub Releases page](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese/releases).
+1. Download the latest release package from our [releases here](https://github.com/trist022/deadlock-vietnamese/releases).
 2. Extract the contents of the zip file.
 3. Locate your Deadlock installation directory:
    ```
