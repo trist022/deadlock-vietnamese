@@ -14,8 +14,8 @@ This repository contains the official Vietnamese localization for [Deadlock](htt
 |--------|--------|
 | Base Translation | Complete |
 | Quality Assurance | Ongoing |
-| Version | 1.0.0 |
-| Last Updated | 27/09/2024 |
+| Version | 1.1.0 |
+| Last Updated | 30/09/2024 |
 
 We are committed to continual improvement and regularly update the translation to enhance accuracy and fluency.
 
