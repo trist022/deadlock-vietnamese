@@ -1,4 +1,4 @@
-﻿"lang" 
+"lang" 
 { 
 	"Language" "Vietnamese" 
 	"Tokens" 
@@ -427,24 +427,24 @@
 		"Citadel_Play_BotsOfflineTitle"				"Bots tạm thời ngoại tuyến"
 		"Citadel_Play_BotsOfflineText"				"Bots tạm thời không khả dụng, vui lòng kiểm tra lại lần sau."
 
-		"BotMatchWarning_Title"						"Bot AI in Early Stages"
-		"BotMatchWarning_EarlyGame"					"Bots are great to practice fighting against, but struggle with grouping up and pushing objectives."
-		"BotMatchWarning_LateGame"					"Bot Matches tend to last much longer than a typical game - you'll need to take charge to defeat their Patron!"
+		"BotMatchWarning_Title"						"Lời Nhắc Từ Bot AI"
+		"BotMatchWarning_EarlyGame"					"Những con BOT là đối thủ tuyệt vời để luyện tập chiến đấu, nhưng chúng lại chật vật trong việc hợp sức và đẩy các mục tiêu."
+		"BotMatchWarning_LateGame"					"Các trận đấu với BOT thường kéo dài hơn so với một trận đấu thông thường - bạn sẽ phải đứng ra lãnh đạo để đánh bại Patron của chúng!"
 
 		"Citadel_MatchmakingSchedule"								"Cập nhật:"
 		"Citadel_MatchmakingSchedule_Desc"							"Ghép trận đã mở 24/7!"
 
 		// Book
-		"Citadel_Book_NotEnoughXP"							"This chatper requires {d:unlock_cost} to unlock, but you only have {d:available_unlocks} available. Play more matches to earn more unlocks."
+		"Citadel_Book_NotEnoughXP"							"Chương này yêu cầu {d:unlock_cost} để mở khóa, Nhưng bạn chỉ có {d:available_unlocks} khả dụng. Chơi thêm một vài trận đấu để có thể thu thập nhiều hơn."
 		"Citadel_Book_NotEnoughXPSingle"					"This chapter requires spending an unlock, but you don't have any currently available. Play more matches to earn more unlocks."
 		"Citadel_Book_NotEnoughXP_Title"					"Inusfficient Unlocks"
-		"Citadel_Book_UnlockXP_Title"						"Unlock Chapter"
+		"Citadel_Book_UnlockXP_Title"						"Mở khóa chương mới"
 		"Citadel_Book_UnlockXP"								"Would you like to unlock this chapter? This will cost {d:unlock_cost} of your {d:available_unlocks} available unlocks."
 		"Citadel_Book_UnlockXPSingle"						"Would you like to unlock this chapter? This will cost one unlock and you have {d:available_unlocks} available."
 		"Citadel_Book_UnlockItem_Title"						"Mở khóa vật phẩm"
 		"Citadel_Book_UnlockItem"							"Would you unlock this item? This will cost {d:unlock_cost} of your {d:available_unlocks} available unlocks."
 		"Citadel_Book_ComingSoon"							"This section will be added in an future update. Keep checking back for more exciting adventures!"
-		"Citadel_Book_ComingSoon_Title"						"Sớm ra mắt"
+		"Citadel_Book_ComingSoon_Title"						"Sắp ra mắt"
 		"Citadel_Book_NotReachable_Title"					"Chưa thể mở khóa"
 		"Citadel_Book_NotReachable"							"Để mở khóa chapter này bạn cần mở khóa những chapter trước đó"
 		"Citadel_Book_PrevPage"								"Trước"
@@ -2658,4 +2658,3 @@
 
 	}
 }
-
